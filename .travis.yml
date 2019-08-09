@@ -7,7 +7,7 @@ deploy:
   edge: true
   provider: bluemixcloudfoundry
   username: apikey
-  org: smid.eiko@gmail.com
+  organisation: smid.eiko@gmail.com
   space: dev
   manifest: manifest.yml
   password:
