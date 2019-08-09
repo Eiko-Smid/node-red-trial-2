@@ -1,0 +1,4 @@
+applications:
+- name: node-red-piep
+  memory: 256MB
+  instances: 1
