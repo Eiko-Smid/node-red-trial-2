@@ -1,5 +1,5 @@
 ---
 applications:
-- name: node-red-trial
+- name: node-red-piep
   memory: 256MB
   instances: 1
