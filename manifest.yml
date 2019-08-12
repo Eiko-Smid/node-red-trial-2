@@ -1,3 +1,4 @@
+---
 applications:
 - name: node-red-trial
   memory: 256MB
