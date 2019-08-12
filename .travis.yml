@@ -10,7 +10,7 @@ deploy:
   organization: smid.eiko@gmail.com
   space: dev
   manifest: manifest.yml
-  app_name: node-red-piepe
+  app_name: node-red-trial
   region: eu-gb 
   password:
     secure: SX0WXSfNUg1e4VgExxDYIw+2OTySv8Z1OoFPg7iauP6KU1Vk7IrfqrDiSAiGpHBXBORqN1ZUdsGjak6z93AoPMM8UGyq5maK6ZU4chXF2QZ5+f4vYWamZxDvmkVYM1ZrDKjxxxo85gwIXs555SVuxQ3vaRaTFjQrW/3Pfs7uKVUHqL13Ljk67wJowapmc1DmTZzrs2BfEyxpjoFtGLv+MCHwIkt96j6G0dfeikEOhq10aqbX9mZLqZi2laZFFH6ZrAaYZUIV6sha6PDwcgd6jNw6XiYN+VyrlFcIdUkSGt7oBNl3G43ieCmM/brn4SFhvpCWugnx7nJNI8Cim9lxrZorni3aqjo0ZnERhMuedSHqViiD0hY2M/knvo+UO2axUnM3polGluci7E9BusQ3NN4RGuMieXctZfC+V+UCqa6tugcYnla80Cap0nJOrJJqQyaTrAwHeZkKippqiT5tP+f+RU0fkuMPdDENhwTEMI+H/L2yqZFgM5hyBzH5RWleJAVGA8VgnEipAI/zDQw0li5QSl3c/+6KZsdf4nqPTHOSRFG0iJCDcwD219mGOa+e2FMqf4JXpcoUdzkjf+JmrrnNiFhySJNkBOgBqtBVGG+K+Yh2aji5tL/N2oZaI9B6VICXrFhGRzuS166ioc6lelRVZXk3zgeW7bRturHiSuc=
