@@ -12,7 +12,7 @@
         }
     },
     "scripts": {
-        "start": "node �max-old-space-size=160 ./node_modules/node-red/red.js �userDir . �settings ./settings.js flow.json"
+        "start": "node max-old-space-size=180 ./node_modules/node-red/red.js-userDir ./-settings ./settings.js flow.json"
     },
     "engines": {
         "node": "10.x"
