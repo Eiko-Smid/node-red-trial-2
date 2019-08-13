@@ -10,6 +10,8 @@ deploy:
   password: BLUEMIX_PASSWORD
   organization: BLUEMIX_ORGANIZATION
   space: BLUEMIX_SPACE
-  manifest: manifest.yml 
-  region: eu-gb 
-
+  manifest: manifest.yml
+  region: eu-gb
+dd:
+  password:
+    secure: KJ+QfKUUECPwq9Nr7cdGE9IvbSOnsIw7nsvN2/JYiWZ0g7tZw4IGJpUJ5pdNik+K49Kqa1xgzBTiZHt09YJAYp3Fi++or/4jVs56LN4DayGGrCdY0AGaIeELox9mAZCWQ5c2K9l+WfgHTV1pRTs9ntMgp1kEc/Ah4CVqHUFq1T2t+YEXz5V4Lu/7bewiM/bYe9cKUFcNKSUFlyV+jCzmOuiBmPBCz9tsHpiZGllpCVvfVxfwfOBTshGf9p9Tf7zMfpemE1swtgtsWaYCRFKS/jqH8/8vfxOSbAwmlRJ/e/tDLoO2G3v736hxXnWMAWTIO6JtZ6WlWZMf/PyLw+OsrYtt4ve4ze3YAIDs9Ca3vWrjcJZvgDJLRsXKKBaKTA4knlrsPUyUjcImK863WAnTXZSFpEG6qFLdx+aNhrQqzWMJnwqqWA52szbxzFndv+VGp/oNFZ0VBWg9Npek/xEaDO/F4pXQLHz6Ec6x8J6YnAb1F0ykberQeMsWzugPaz1TJQu6snsANwxWN9X//wsPWnRXWgR3P+6u2C573M0o7dy0MhCawB1cyazOixI4csWTdsrzKewK3eE4xK2HY4n7IF5uZOwPy0vow8o+oo7NdeB44SyxplMlsENZmop9ezWoU3MrCTpcbPgJBRP+/dMBYGXXjKoQfxA9+0Cfg2vUz0s=
