@@ -6,9 +6,10 @@ script: echo "Skipping build"
 deploy:
   edge: true
   provider: bluemixcloudfoundry
-  username: $BLUEMIX_USER
-  password: $BLUEMIX_PASSWORD
-  organization: $BLUEMIX_ORGANIZATION
-  space: $BLUEMIX_SPACE
+  username: BLUEMIX_USER
+  password: BLUEMIX_PASSWORD
+  organization: BLUEMIX_ORGANIZATION
+  space: BLUEMIX_SPACE
   manifest: manifest.yml 
   region: eu-gb 
+
